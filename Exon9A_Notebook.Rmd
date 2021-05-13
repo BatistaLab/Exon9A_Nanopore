@@ -71,7 +71,7 @@ minimap2 -ax splice -uf -k14 /data/BatistaLab_NGS/annotations/GRCh38.p12.genome.
 # 5. Visualization
 Mapped sam files were indexed and visualized with `IGV/2.8.0` using the in-application `igvtools` features. FH was visualized between exons 9 and exon 10. Alternative splicing plots were generated using the in-application `Sashimi Plot` feature: 
 
-<div style="width:1600px; height:1200px">![Representative Sashimi Plot of VHL and 1656 cell lines](2021.04.11_VHLB_1656A_representative_sashimi-plot copy.png)</div>
+<div style="width:1600px; height:1200px">![Representative Sashimi Plot of VHL and 1656 cell lines](representative_sashimi-plot.png)</div>
 
 
 
